@@ -1,6 +1,6 @@
 # Mouse Pose Estimation using DeepLabCut SuperAnimal
 
-Automated behavioral analysis pipeline for tracking mouse movement in videos using deep learning.
+Behavioral analysis pipeline for tracking mouse movement in videos using deep learning.
 
 ---
 
