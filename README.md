@@ -88,3 +88,4 @@ Mathis et al. (2018). DeepLabCut: markerless pose estimation of user-defined bod
 SuperAnimal:
 
 Ye et al. (2024). SuperAnimal pretrained pose estimation models for behavioral analysis. Nature Communications, 15, 6529.
+Communications, 15, 6529.
