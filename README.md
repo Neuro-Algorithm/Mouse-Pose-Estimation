@@ -20,28 +20,23 @@ The entire pipeline runs in Google Colab with free GPU access, making advanced p
 
 ---
 
-## Key Features
+Tracked Bodyparts (39 total):
 
-- **Zero setup required** - Runs entirely in Google Colab
-- **No training needed** - Pre-trained models work immediately
-- **No GPU required locally** - Uses free cloud computing
-- **39 keypoints tracked** - Complete body coverage from nose to tail
-- **High accuracy** - Built on DeepLabCut framework used in 2000+ research papers
-- **Easy export** - Get CSV files for Excel, R, MATLAB, or Python analysis
+Head: nose, upper_jaw, lower_jaw, mouth_end_left, mouth_end_right, left_eye, right_eye
+Ears: left_earbase, left_earend, right_earbase, right_earend
+Neck & Throat: neck_base, neck_end, throat_base, throat_end
+Body: back_base, back_middle, back_end, body_middle_left, body_middle_right, belly_bottom
+Tail: tail_base, tail_end
+Front Legs: front_left_thai, front_left_knee, front_left_paw, front_right_thai, front_right_knee, front_right_paw
+Back Legs: back_left_thai, back_left_knee, back_left_paw, back_right_thai, back_right_knee, back_right_paw
+Antlers: left_antler_base, left_antler_end, right_antler_base, right_antler_end
 
----
+Confidence Scores:
+Each keypoint comes with a likelihood score (0-1) indicating tracking quality. Typical confidence ranges:
 
-## Technical Details
-
-**Models Used:**
-- SuperAnimal Quadruped (pre-trained on 45+ species)
-- HRNet-W32 architecture for pose estimation
-- Faster R-CNN for mouse detection
-
-**Tracked Bodyparts (39 total):**
-- Head: nose, eyes, jaw, ears (base and tips)
-- Body: neck, spine, tail, belly
-- Limbs: shoulders, knees, paws (all four legs)
+High confidence (>0.7): Nose, ears, paws - reliably tracked
+Medium confidence (0.4-0.7): Body middle, knees - generally good
+Low confidence (<0.4): May need filtering or improved video quality
 
 **Output Files:**
 - HDF5 files with complete tracking data
