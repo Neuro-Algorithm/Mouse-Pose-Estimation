@@ -31,7 +31,9 @@ Front Legs: front_left_thai, front_left_knee, front_left_paw, front_right_thai, 
 Back Legs: back_left_thai, back_left_knee, back_left_paw, back_right_thai, back_right_knee, back_right_paw
 Antlers: left_antler_base, left_antler_end, right_antler_base, right_antler_end
 
+
 ![Tracking Quality Report](images/tracking_quality_report.png)
+
 ![Labeled Output](images/labeled_output.png)
 
 
