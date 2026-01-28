@@ -33,12 +33,11 @@ Antlers: left_antler_base, left_antler_end, right_antler_base, right_antler_end
 
 ![Project Screenshot](labeled_output.png)
 
-![Project Screenshot](behaviouralanalysis.png)
-
-![Project Screenshot](tracking_quality_report.png)
 
 Confidence Scores:
 Each keypoint comes with a likelihood score (0-1) indicating tracking quality. Typical confidence ranges:
+
+![Project Screenshot](tracking_quality_report.png)
 
 High confidence (>0.7): Nose, ears, paws - reliably tracked
 Medium confidence (0.4-0.7): Body middle, knees - generally good
