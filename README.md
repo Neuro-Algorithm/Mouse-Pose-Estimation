@@ -39,7 +39,7 @@ Antlers: left_antler_base, left_antler_end, right_antler_base, right_antler_end
 
 Confidence Scores:
 
-![Behavioural Analysis](images/behavioural_analysis.png)
+![Labeled Output](images/labeled_output.png)
 
 Each keypoint comes with a likelihood score (0-1) indicating tracking quality. Typical confidence ranges:
 
