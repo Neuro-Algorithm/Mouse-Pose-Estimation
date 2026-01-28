@@ -31,13 +31,14 @@ Front Legs: front_left_thai, front_left_knee, front_left_paw, front_right_thai, 
 Back Legs: back_left_thai, back_left_knee, back_left_paw, back_right_thai, back_right_knee, back_right_paw
 Antlers: left_antler_base, left_antler_end, right_antler_base, right_antler_end
 
-![Project Screenshot](labeled_output.png)
+![Tracking Quality Report](tracking_quality_report.png)
+<img src="tracking_quality_report.png" width="600">
 
+![Labeled Output](./images/labeled_output.png)
 
 Confidence Scores:
 Each keypoint comes with a likelihood score (0-1) indicating tracking quality. Typical confidence ranges:
 
-![Project Screenshot](tracking_quality_report.png)
 
 High confidence (>0.7): Nose, ears, paws - reliably tracked
 Medium confidence (0.4-0.7): Body middle, knees - generally good
