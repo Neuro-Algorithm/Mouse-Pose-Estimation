@@ -32,9 +32,7 @@ Back Legs: back_left_thai, back_left_knee, back_left_paw, back_right_thai, back_
 Antlers: left_antler_base, left_antler_end, right_antler_base, right_antler_end
 
 
-![Tracking Quality Report](images/tracking_quality_report.png)
-
-![Labeled Output](images/labeled_output.png)
+![Labeled Output](https://drive.google.com/file/d/1GEWs9obu9k91gg_SNmSpjbWet4RJHgCg/view?usp=sharing)
 
 
 Confidence Scores:
