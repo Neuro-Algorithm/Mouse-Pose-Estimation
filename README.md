@@ -32,9 +32,8 @@ Back Legs: back_left_thai, back_left_knee, back_left_paw, back_right_thai, back_
 Antlers: left_antler_base, left_antler_end, right_antler_base, right_antler_end
 
 ### Live Tracking Preview
-[https://user-images.githubusercontent.com/your_id/123456789-abc123.mp4](https://drive.google.com/file/d/1p9uDeAE1fcUKeLvf4auumHl_ksTOklIN/view?usp=drive_link)
 
-*Full video analysis available* [Drive](https://drive.google.com/file/d/1p9uDeAE1fcUKeLvf4auumHl_ksTOklIN/view?usp=drive_link)
+*Full video analysis available* [Drive](https://drive.google.com/file/d/1GEWs9obu9k91gg_SNmSpjbWet4RJHgCg/view?usp=drive_link)
 
 *Full video analysis available*
 
